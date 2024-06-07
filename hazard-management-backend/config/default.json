@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://sidithebe:vaYuRAalJAOyV7BQ@cluster0.zxhhio3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret": "eyJhbGciOiJIUzI1NiJ9.eyJSb2xlIjoiQWRtaW4iLCJJc3N1ZXIiOiJJc3N1ZXIiLCJVc2VybmFtZSI6IkphdmFJblVzZSIsImV4cCI6MTcxNzY3ODkyMCwiaWF0IjoxNzE3Njc4OTIwfQ.kimxRs7K7Ie2xIzsOZoE6bLh7PyY_uhbNVmsJZWYbGw"
+}
+  
